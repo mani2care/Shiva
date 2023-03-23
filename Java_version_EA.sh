@@ -1,9 +1,10 @@
 #!/bin/sh
 
-#  Java_version_EA.sh
-#  
-#
-#  Created by Shri Sivakumaran C on 01/03/23.
+######################################################################################################
+## Java_version_EA.sh on macOS                                                                   #####
+## Created by Shri Sivakumaran on 01/03/23., Slack me @Shri                                      #####
+######################################################################################################
+
 
 java_versions=$(/usr/libexec/java_home -V 2>&1 | grep -E "[0-9]+\.[0-9]+(_[0-9]+)?\+?" | awk '{ print $1 " " $3" "$4 }')
 

@@ -2,7 +2,7 @@
 
 ######################################################################################################
 ## Script to remove Cisco Anyconnect on macOS                                                    #####
-## Created by Shri Sivakumaran Slack me @Shri                                                    #####
+## Created by Shri Sivakumaran, Slack me @Shri                                                    #####
 ## This script will clean up Cisco Anyconnect 4.1.08005 to 4.9.xxx, tested in macOS 10.15.7 & 11 #####
 ## Cisco Anyconnect, Dart, iseposture and Umbrella will be removed                               #####
 ######################################################################################################

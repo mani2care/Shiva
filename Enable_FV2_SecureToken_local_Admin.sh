@@ -1,5 +1,10 @@
 #!/bin/sh   
 
+######################################################################################################
+## Script to add FV2 abd secure token to local admin on macOS                                    #####
+## Created by Shri Sivakumaran, Slack me @Shri                                                   #####
+######################################################################################################
+
 adminName="localadmin account name" #give your local admin name here or pass it from $4
 adminPass="enter password here" #password of local admin account or pass it from $5
 ## Get the logged in user's name
