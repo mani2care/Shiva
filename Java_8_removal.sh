@@ -17,6 +17,7 @@ sudo rm -rf /User/$LoggedUser/Library/Application\ Support/Oracle/Java
 
 rm -fr /Library/Java/JavaVirtualMachines/jdk1.8*
   
+  ##update inventory to Jamf Pro
   jamf recon
 
 exit 0
